@@ -1,3 +1,0 @@
-demos
-timeworker
-timeworker_data
